@@ -66,5 +66,4 @@ Este proyecto tiene como objetivo predecir la probabilidad de que un cliente con
 
 - `data/`: Conjuntos de datos utilizados en el proyecto.
 - `notebooks/`: Jupyter Notebooks con el código de preprocesamiento, análisis y modelado.
-- `reports/`: Resultados y visualizaciones generadas durante el análisis.
 - `README.md`: Este archivo, que proporciona una visión general del proyecto y guía sobre cómo utilizar el repositorio.
